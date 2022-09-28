@@ -1,6 +1,6 @@
 # Scripted by Mr_Dark
 # Mau ngapain ??
-# Kalo g bisa ngoding jangan decode deck.
+# Script Open Source dijual 30k, contact: 081327441039 via whatsapp
 
 copyright='Obfuscated by https://pyobfuscate.com'
 class Pyobfuscate_com():
